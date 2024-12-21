@@ -1,3 +1,7 @@
+// C++ code that asks the user for a 4 digit number, then prompts them to encode or decode the number.
+// After selecting whether or not to decode, code asks if user would like to encode another number.
+// Code then asks user if they would like to clear the file.
+
 #include <iostream>
 #include <fstream>
 #include <sstream>
